@@ -1,0 +1,19 @@
+# Calculator
+
+This is a basic calculator program that can perform addition, subtraction, multiplication, and division operations on two numbers.
+
+## Installation
+
+To use this calculator, you will need to have Python 3 installed on your computer. You can download and install Python 3 from the official website: https://www.python.org/downloads/
+
+## Usage
+
+To use the calculator, run the calculator.py file in a Python 3 interpreter. The program will prompt you to enter two numbers and select an operation. After you enter the numbers and select an operation, the program will display the result of the operation.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and create a new branch for your changes. After you have made your changes, submit a pull request to merge your changes into the main branch.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
